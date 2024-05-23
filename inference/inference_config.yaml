@@ -1,0 +1,15 @@
+name: similarity_search_app
+applications:
+  - name: frontend
+    route_prefix: /
+    import_path: inference.frontend:app
+    deployments:
+      - name: GradioIngress
+        num_replicas: 1
+  - name: backend
+    route_prefix: /backend
+    import_path: inference.backend:app
+    deployments:
+      - name: MultiModalSimilaritySearchService
+        num_replicas: 1
+query_auth_token_enabled: false

@@ -1,0 +1,8 @@
+transformers==4.38.2
+torch==2.2.1
+pinecone-client==3.2.2
+gdown==5.1.0
+pillow==10.3.0
+jaxlib==0.4.27
+flax==0.8.2
+gradio==3.50.2

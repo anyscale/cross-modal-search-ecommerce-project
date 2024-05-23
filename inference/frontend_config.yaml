@@ -1,0 +1,8 @@
+name: similarity_search_app
+applications:
+  - name: default
+    import_path: inference.frontend:app
+    deployments:
+      - name: GradioIngress
+        num_replicas: 1
+query_auth_token_enabled: false

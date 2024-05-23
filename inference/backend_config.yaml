@@ -1,0 +1,4 @@
+name: similarity_search_service
+applications:
+  - import_path: inference.inference:app
+query_auth_token_enabled: false
