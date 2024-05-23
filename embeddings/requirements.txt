@@ -1,0 +1,7 @@
+typer==0.12.1
+tqdm==4.66.2
+pandas==2.1.4
+pinecone-client==3.2.2
+torch==2.2.1
+pillow==10.3.0 
+transformers==4.39.3
