@@ -1,0 +1,8 @@
+name: calc-embeddings
+entrypoint: python embeddings/main.py --mode img --model-name openai  #choose model from [openai, fashionclip], choose mode from [img, txt]
+runtime_env:
+  working_dir: .
+  pip: embeddings/requirements.txt
+  env_vars:
+    PINECONE_API_KEY: <your pinecone api key>
+
