@@ -53,7 +53,7 @@ git clone https://github.com/anyscale/cross-modal-search-ecommerce-project.git
 
 #### Step 6
 
-Got to project directory:
+Go to the project directory:
 
 ```bash
 cd cross-modal-search-ecommerce-project
