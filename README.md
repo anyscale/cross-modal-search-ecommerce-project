@@ -1,4 +1,4 @@
-# Cross Modal Search for E-commerce
+# Cross-modal Search for E-commerce: Building and Scaling a Cross-Modal Image Retrieval App
 
 ![](https://technical-training-assets.s3.us-west-2.amazonaws.com/Anyscale-generic/blog/overview-blog.png)
 
