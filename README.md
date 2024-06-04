@@ -10,35 +10,38 @@ If you don't have an Anyscale account, you can register [here](https://console.a
 
 If you already have an account, [login](https://console.anyscale.com/v2?utm_source=github&utm_medium=github&utm_content=cross-modal-search-ecommerce-project) here.
 
-### Launch a workspace 
+### Prepare Anyscale Workspace 
 
 #### Step 1
 
-Once you are logged in, go to workspaces by clicking the "workspaces" tab on the left side of the home screen 
+Once you are logged in, go to workspaces by clicking the "**Workspaces**" tab on the left side of the home screen:
 
 <img src="https://anyscale-materials.s3.us-west-2.amazonaws.com/multi-modal-search-deepsense-anyscale/workspaces-tab.png" width="800px">
 
 #### Step 2
 
-Create a new workspace by clicking the "Create Workspace" button
+Create a new workspace by clicking the "**Create Workspace**" button:
 
 <img src="https://anyscale-materials.s3.us-west-2.amazonaws.com/multi-modal-search-deepsense-anyscale/workspace-create.png" width="800px">
 
 #### Step 3
 
-Fill out the workspace creation form
+Specify Workspace details as displayed below and click "**Create**":
 
 <img src="https://anyscale-materials.s3.us-west-2.amazonaws.com/multi-modal-search-deepsense-anyscale/workspace-form-v2.png" width="800px">
 
 #### Step 4
 
-Wait for the workspace to be created
+Wait for the workspace to be created:
+
+*(this can take up to one minute)*
 
 <img src="https://anyscale-materials.s3.us-west-2.amazonaws.com/multi-modal-search-deepsense-anyscale/workspace-creation.png" width="800px">  
 
-### Clone the repository into the Anyscale Workspace
+> [!NOTE]
+> Your workspace is ready!
 
-#### Step 1
+#### Step 5
 
 Open the terminal in the workspace and clone the repository by running the following command:
 
@@ -48,9 +51,9 @@ git clone https://github.com/anyscale/cross-modal-search-ecommerce-project.git
 
 <img src="https://anyscale-materials.s3.us-west-2.amazonaws.com/multi-modal-search-deepsense-anyscale/workspace-terminal.png" width="800px">
 
-#### Step 2
+#### Step 6
 
-Change directory to the repository
+Got to project directory:
 
 ```bash
 cd cross-modal-search-ecommerce-project
