@@ -1,5 +1,7 @@
 # Cross-modal Search for E-commerce: Building and Scaling a Cross-Modal Image Retrieval App
 
+Read [blog post](https://www.anyscale.com/blog/cross-modal-search-for-e-commerce-building-and-scaling-a-cross-modal-image-retrieval-app) about the project.
+
 ![](https://technical-training-assets.s3.us-west-2.amazonaws.com/Anyscale-generic/blog/overview-blog.png)
 
 ## 1. Quickstart
@@ -132,3 +134,7 @@ Visit the Application URL to see the application. You can find the URL under the
 Query the application by entering a query in the search bar and clicking the search button
 
 <img src="https://anyscale-materials.s3.us-west-2.amazonaws.com/multi-modal-search-deepsense-anyscale/app-query.png" width="800px" alt="app-query">
+
+---
+
+Created with ♥️ by [Anyscale](https://anyscale.com/) and [deepsense.ai](https://deepsense.ai/)
